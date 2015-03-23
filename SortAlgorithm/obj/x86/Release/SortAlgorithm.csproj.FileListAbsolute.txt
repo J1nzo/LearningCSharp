@@ -1,0 +1,5 @@
+C:\Users\root\Documents\Visual Studio 2010\Projects\SortAlgorithm\SortAlgorithm\bin\Release\SortAlgorithm.exe.config
+C:\Users\root\Documents\Visual Studio 2010\Projects\SortAlgorithm\SortAlgorithm\bin\Release\SortAlgorithm.exe
+C:\Users\root\Documents\Visual Studio 2010\Projects\SortAlgorithm\SortAlgorithm\bin\Release\SortAlgorithm.pdb
+C:\Users\root\Documents\Visual Studio 2010\Projects\SortAlgorithm\SortAlgorithm\obj\x86\Release\SortAlgorithm.exe
+C:\Users\root\Documents\Visual Studio 2010\Projects\SortAlgorithm\SortAlgorithm\obj\x86\Release\SortAlgorithm.pdb

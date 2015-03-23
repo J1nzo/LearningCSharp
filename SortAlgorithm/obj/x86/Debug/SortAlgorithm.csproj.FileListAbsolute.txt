@@ -1,0 +1,6 @@
+C:\Users\root\documents\visual studio 2010\Projects\SortAlgorithm\SortAlgorithm\bin\Debug\SortAlgorithm.exe.config
+C:\Users\root\documents\visual studio 2010\Projects\SortAlgorithm\SortAlgorithm\bin\Debug\SortAlgorithm.exe
+C:\Users\root\documents\visual studio 2010\Projects\SortAlgorithm\SortAlgorithm\bin\Debug\SortAlgorithm.pdb
+C:\Users\root\documents\visual studio 2010\Projects\SortAlgorithm\SortAlgorithm\obj\x86\Debug\SortAlgorithm.exe
+C:\Users\root\documents\visual studio 2010\Projects\SortAlgorithm\SortAlgorithm\obj\x86\Debug\SortAlgorithm.pdb
+C:\Users\root\documents\visual studio 2010\Projects\SortAlgorithm\SortAlgorithm\obj\x86\Debug\SortAlgorithm.csprojResolveAssemblyReference.cache
